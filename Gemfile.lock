@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cuba (3.1.0)
+      rack
+    macaddr (1.6.1)
+      systemu (~> 2.5.0)
+    rack (1.4.1)
+    systemu (2.5.2)
+    uuid (2.3.6)
+      macaddr (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cuba
+  uuid
