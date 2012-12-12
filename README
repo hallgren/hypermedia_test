@@ -1,0 +1,7 @@
+run
+
+bundle install
+rackup
+
+
+
